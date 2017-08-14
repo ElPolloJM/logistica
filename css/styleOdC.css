@@ -1,0 +1,15 @@
+.seccion {
+  border: 1px solid black;
+  margin: 2px auto;
+}
+.Elemento {
+  border: .5px solid black;
+  margin: .2px;
+}
+.Titulo_seccion{
+  background-color: cyan;
+}
+
+.subseccion {
+  margin: 1px;
+}

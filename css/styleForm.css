@@ -1,0 +1,16 @@
+.Formulario{
+	border: 1px solid red;
+}
+
+h1 {
+	border: 20px;
+	background-color: #f0f;
+}
+
+.Info_Gral {
+display: grid;
+}
+img {
+	align: center;
+	border: 1px solid red;
+}
